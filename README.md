@@ -13,14 +13,17 @@ Feel free to explore and use them as needed.
 - **VTOP Portal (VIT)** 
   https://vtoponline.vit.ac.in/vtop/content
 
-- **Shared Drive – Study Materials** 
+- **Shared Drive â€“ Study Materials** 
   https://drive.google.com/drive/folders/1HrFxVEIMrTyzRQyoiVFRy3zg6p3O_M2j?usp=sharing
+
+- **Financial Terms for Engineers**
+  https://chatgpt.com/gg/v/695d39777ce88192becf73aaf552c043?token=qWWmogkJbKgmuThq2NtWew
 
 ---
 
 ## Student-Suggested Resources
 
-- **Accounts – YouTube Resource** 
+- **Accounts â€“ YouTube Resource** 
   https://www.youtube.com/watch?v=L5BbuaKbaGI
 
 ---
@@ -30,7 +33,7 @@ Feel free to explore and use them as needed.
 - **Statistical Tables (University of Baltimore)** 
   https://home.ubalt.edu/ntsbarsh/business-stat/StatistialTables.pdf
 
-- **NCHRP Statistical Tables – Appendix C** 
+- **NCHRP Statistical Tables â€“ Appendix C** 
   https://onlinepubs.trb.org/onlinepubs/nchrp/cd-22/manual/v2appendixc.pdf
 
 ---
