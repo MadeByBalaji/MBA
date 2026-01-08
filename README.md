@@ -3,6 +3,15 @@
 A small collection of helpful links for revision, academic access, and reference materials. 
 Feel free to explore and use them as needed.
 
+## How to Download This Folder
+
+### Step 1: Click on the **Code** Button
+Click the green **Code** button on the top right.
+
+---
+
+### Step 2: Download ZIP
+Click **Download ZIP**.
 ---
 
 ## Revision & Academic Portals
