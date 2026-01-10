@@ -8,6 +8,7 @@ Feel free to explore and use them as needed.
 ### Step 1: Click on the **Code** Button
 Click the green **Code** button on the top right.
 
+![How to download](https://github.com/MadeByBalaji/MBA/blob/main/images/how_to_download.jpeg)
 ---
 
 ### Step 2: Download ZIP
